@@ -1,0 +1,13 @@
+{
+  "name": "ltyp",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "nws": "^0.6.1",
+    "reactify": "^1.1.0"
+  }
+}
